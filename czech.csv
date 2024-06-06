@@ -1,0 +1,154 @@
+,mesto,sirka,vyska,admin_name
+0,Praha,50.0875,14.4214,Praha
+1,Olomouc,49.5939,17.2508,Olomoucký Kraj
+2,Brno,49.1925,16.6083,Jihomoravský Kraj
+3,Ostrava,49.8356,18.2925,Moravskoslezský Kraj
+4,Plzeň,49.7475,13.3775,Plzeňský Kraj
+5,Liberec,50.7667,15.0667,Liberecký Kraj
+6,České Budějovice,48.9747,14.4747,Jihočeský Kraj
+7,Hradec Králové,50.2092,15.8322,Královéhradecký Kraj
+8,Ústí nad Labem,50.6583,14.0417,Ústecký Kraj
+9,Pardubice,50.0386,15.7792,Pardubický Kraj
+10,Zlín,49.2331,17.6669,Zlínský Kraj
+11,Havířov,49.7831,18.4228,Moravskoslezský Kraj
+12,Kladno,50.15,14.1,Středočeský Kraj
+13,Most,50.5031,13.6367,Ústecký Kraj
+14,Opava,49.9381,17.9044,Moravskoslezský Kraj
+15,Frýdek-Místek,49.6856,18.3506,Moravskoslezský Kraj
+16,Jihlava,49.4003,15.5906,Vysočina
+17,Karviná,49.8542,18.5428,Moravskoslezský Kraj
+18,Teplice,50.6444,13.8319,Ústecký Kraj
+19,Chomutov,50.4611,13.4167,Ústecký Kraj
+20,Karlovy Vary,50.2306,12.8725,Karlovarský Kraj
+21,Jablonec nad Nisou,50.7244,15.1681,Liberecký Kraj
+22,Mladá Boleslav,50.4125,14.9044,Středočeský Kraj
+23,Prostějov,49.4722,17.1106,Olomoucký Kraj
+24,Přerov,49.4556,17.4511,Olomoucký Kraj
+25,Česká Lípa,50.6886,14.5386,Liberecký Kraj
+26,Třebíč,49.215,15.8817,Vysočina
+27,Tábor,49.4144,14.6578,Jihočeský Kraj
+28,Znojmo,48.8556,16.0489,Jihomoravský Kraj
+29,Kolín,50.0281,15.2006,Středočeský Kraj
+30,Příbram,49.6883,14.0092,Středočeský Kraj
+31,Písek,49.3089,14.1475,Jihočeský Kraj
+32,Kroměříž,49.2989,17.3931,Zlínský Kraj
+33,Orlová,49.8452,18.4302,Moravskoslezský Kraj
+34,Líšeň,49.2075,16.6861,Jihomoravský Kraj
+35,Břevnov,50.0833,14.3579,Středočeský Kraj
+36,Vsetín,49.3387,17.9962,Zlínský Kraj
+37,Šumperk,49.9653,16.9707,Olomoucký Kraj
+38,Uherské Hradiště,49.0697,17.4597,Zlínský Kraj
+39,Bystrc,49.2247,16.5239,Jihomoravský Kraj
+40,Český Těšín,49.7461,18.6261,Moravskoslezský Kraj
+41,Litoměřice,50.5342,14.1328,Ústecký Kraj
+42,Litvínov,50.6008,13.6112,Ústecký Kraj
+43,Nový Jičín,49.5944,18.0103,Moravskoslezský Kraj
+44,Chrudim,49.9511,15.7956,Pardubický Kraj
+45,Krnov,50.0906,17.6986,Moravskoslezský Kraj
+46,Sokolov,50.1814,12.6402,Karlovarský Kraj
+47,Strakonice,49.2615,13.9024,Jihočeský Kraj
+48,Valašské Meziříčí,49.4718,17.9712,Zlínský Kraj
+49,Kopřivnice,49.5995,18.1448,Moravskoslezský Kraj
+50,Kutná Hora,49.9483,15.2683,Středočeský Kraj
+51,Žďár nad Sázavou,49.5627,15.9393,Vysočina
+52,Bohumín,49.9042,18.3575,Moravskoslezský Kraj
+53,Blansko,49.3631,16.6431,Jihomoravský Kraj
+54,Beroun,49.9642,14.0739,Středočeský Kraj
+55,Náchod,50.4167,16.163,Královéhradecký Kraj
+56,Mělník,50.3506,14.4742,Středočeský Kraj
+57,Brandýs nad Labem-Stará Boleslav,50.1894,14.6672,Středočeský Kraj
+58,Jirkov,50.4999,13.4478,Ústecký Kraj
+59,Žatec,50.3273,13.5459,Ústecký Kraj
+60,Kralupy nad Vltavou,50.2411,14.3116,Středočeský Kraj
+61,Louny,50.3571,13.7968,Ústecký Kraj
+62,Otrokovice,49.2099,17.5308,Zlínský Kraj
+63,Bílina,50.5481,13.7761,Ústecký Kraj
+64,Svitavy,49.756,16.4683,Pardubický Kraj
+65,Jičín,50.4367,15.3517,Královéhradecký Kraj
+66,Říčany,49.9917,14.6543,Středočeský Kraj
+67,Neratovice,50.2593,14.5177,Středočeský Kraj
+68,Slaný,50.2305,14.087,Středočeský Kraj
+69,Bruntál,49.9883,17.4647,Moravskoslezský Kraj
+70,Rakovník,50.1038,13.7335,Středočeský Kraj
+71,Dvůr Králové nad Labem,50.4331,15.8122,Královéhradecký Kraj
+72,Varnsdorf,50.9116,14.6184,Ústecký Kraj
+73,Nymburk,50.1861,15.0417,Středočeský Kraj
+74,Poděbrady,50.1425,15.1189,Středočeský Kraj
+75,Turnov,50.5873,15.1569,Liberecký Kraj
+76,Rokycany,49.7428,13.5946,Plzeňský Kraj
+77,Hlučín,49.8967,18.1931,Moravskoslezský Kraj
+78,Chodov,50.2414,12.7439,Karlovarský Kraj
+79,Český Krumlov,48.8111,14.3153,Jihočeský Kraj
+80,Roudnice nad Labem,50.4254,14.2618,Ústecký Kraj
+81,Milovice,50.226,14.8887,Středočeský Kraj
+82,Jaroměř,50.3503,15.9183,Královéhradecký Kraj
+83,Čelákovice,50.1606,14.75,Středočeský Kraj
+84,Vrchlabí,50.627,15.6095,Královéhradecký Kraj
+85,Boskovice,49.4875,16.66,Jihomoravský Kraj
+86,Nový Bor,50.7577,14.5557,Liberecký Kraj
+87,Domažlice,49.4406,12.9272,Plzeňský Kraj
+88,Kuřim,49.2985,16.5315,Jihomoravský Kraj
+89,Rumburk,50.9516,14.5571,Ústecký Kraj
+90,Frenštát pod Radhoštěm,49.5483,18.2108,Moravskoslezský Kraj
+91,Jesenice,49.9683,14.5136,Středočeský Kraj
+92,Králŭv Dvŭr,49.9499,14.0345,Středočeský Kraj
+93,Frýdlant nad Ostravicí,49.5928,18.3597,Moravskoslezský Kraj
+94,Lanškroun,49.9122,16.612,Pardubický Kraj
+95,Tišnov,49.3487,16.4244,Jihomoravský Kraj
+96,Hostivice,50.0814,14.2525,Středočeský Kraj
+97,Roztoky,50.1585,14.3977,Středočeský Kraj
+98,Lovosice,50.5151,14.0511,Ústecký Kraj
+99,Duchcov,50.6039,13.7464,Ústecký Kraj
+100,Semily,50.602,15.3356,Liberecký Kraj
+101,Výškovice,49.8156,18.2667,Moravskoslezský Kraj
+102,Šlapanice,49.1687,16.7273,Jihomoravský Kraj
+103,Rychvald,49.8662,18.3763,Moravskoslezský Kraj
+104,Petřvald,49.831,18.3894,Moravskoslezský Kraj
+105,Černošice,49.9531,14.3253,Středočeský Kraj
+106,Vratimov,49.7699,18.3102,Moravskoslezský Kraj
+107,Sezimovo Ústí,49.3853,14.6848,Jihočeský Kraj
+108,Slavkov u Brna,49.1533,16.8765,Jihomoravský Kraj
+109,Úvaly,50.074,14.7309,Středočeský Kraj
+110,Hořovice,49.8361,13.905,Středočeský Kraj
+111,Rosice,49.1824,16.3879,Jihomoravský Kraj
+112,Odolena Voda,50.2335,14.4109,Středočeský Kraj
+113,Tanvald,50.7374,15.306,Liberecký Kraj
+114,Nové Strašecí,50.1528,13.9005,Středočeský Kraj
+115,Jablunkov,49.5767,18.7647,Moravskoslezský Kraj
+116,Modřice,49.1279,16.6144,Jihomoravský Kraj
+117,Kosmonosy,50.4386,14.9301,Středočeský Kraj
+118,Rudná,50.0351,14.2344,Středočeský Kraj
+119,Ludgeřovice,49.8904,18.2401,Moravskoslezský Kraj
+120,Pečky,50.0905,15.0302,Středočeský Kraj
+121,Horoměřice,50.1318,14.3389,Středočeský Kraj
+122,Adamov,49.3006,16.6586,Jihomoravský Kraj
+123,Horní Suchá,49.7978,18.4819,Moravskoslezský Kraj
+124,Vejprnice,49.73,13.2763,Plzeňský Kraj
+125,Hostinné,50.5411,15.7233,Královéhradecký Kraj
+126,Chýně,50.0608,14.227,Středočeský Kraj
+127,Vesec,50.7389,15.0661,Liberecký Kraj
+128,Šestajovice,50.1085,14.6802,Středočeský Kraj
+129,Rajhrad,49.0902,16.6039,Jihomoravský Kraj
+130,Mnichovice,49.9361,14.7091,Středočeský Kraj
+131,Židlochovice,49.0396,16.6188,Jihomoravský Kraj
+132,Zbýšov,49.1553,16.3495,Jihomoravský Kraj
+133,Buštěhrad,50.1553,14.1886,Středočeský Kraj
+134,Velké Přílepy,50.1606,14.3145,Středočeský Kraj
+135,Libčice nad Vltavou,50.1991,14.3628,Středočeský Kraj
+136,Moravany,49.1456,16.5762,Jihomoravský Kraj
+137,Trmice,50.6429,13.9946,Ústecký Kraj
+138,Tlučná,49.7244,13.2354,Plzeňský Kraj
+139,Jablonné nad Orlicí,50.0297,16.6006,Pardubický Kraj
+140,Líbeznice,50.192,14.4937,Středočeský Kraj
+141,Čerčany,49.853,14.703,Středočeský Kraj
+142,Srubec,48.9481,14.5413,Jihočeský Kraj
+143,Hrádek,49.7131,13.6547,Plzeňský Kraj
+144,Vestec,49.9806,14.5049,Středočeský Kraj
+145,Dolní Jirčany,49.9483,14.5206,Středočeský Kraj
+146,Mukařov,49.9912,14.7416,Středočeský Kraj
+147,Proboštov,50.6678,13.8361,Ústecký Kraj
+148,Litvínovice,48.9621,14.4515,Jihočeský Kraj
+149,Vrané nad Vltavou,49.9359,14.3771,Středočeský Kraj
+150,Rudolfov,48.9935,14.5418,Jihočeský Kraj
+151,Hovorčovice,50.1787,14.518,Středočeský Kraj
+152,Zastávka,49.188,16.3631,Jihomoravský Kraj
